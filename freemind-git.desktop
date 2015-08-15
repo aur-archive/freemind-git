@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=FreeMind
+GenericName=FreeMind
+Exec=freemind
+Terminal=false
+Icon=freemind
+Type=Application
+Comment=A free mind mapping tool
+MimeType=application/x-freemind
+Categories=Application;Office;
